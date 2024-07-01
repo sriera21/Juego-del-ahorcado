@@ -1,5 +1,5 @@
 import random
-import tkinter as tk
+import tkinter as tk 
 from tkinter import messagebox, simpledialog
 
 def choose_word():
